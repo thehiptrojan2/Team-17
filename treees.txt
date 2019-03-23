@@ -1,0 +1,719 @@
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- start: Meta -->
+<title>Grow Trees | Save the Environment | Plant Trees to Protect Nature</title>
+<meta name="description" content="Grow Trees has planted more than 1.5 millions trees across India. Save the environment and plant trees for nature & wildlife.">
+<meta name="author" content="Grow-Trees.com">
+<meta name="keyword" content="Gift a tree, Grow trees, Plant trees, reduce carbon footprint, help environment, Unique Creative Gifting ideas, Green Gifts,memorial,wedding,treebank,">
+<meta name="language" content="english">    
+<meta name="reply-to" content="inf0@grow-trees.com"> 
+<link rel="icon" href="/favicon.ico">
+
+
+<!-- Global site tag (gtag.js) - AdWords: 806752642 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-806752642"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-806752642');
+</script>
+
+<script>
+  gtag('event', 'page_view', {
+    'send_to': 'AW-806752642',
+    'user_id': '136.233.9.104'
+  });
+</script><link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/rupyainr/1.0.0/rupyaINR.min.css">
+<link rel="stylesheet" type="text/css" href="https://d1mne375u01eb8.cloudfront.net/combinecss.php?css=styles.php">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+<!-- New FB script 23 April 18 -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+   if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+   n.queue=[];t=b.createElement(e);t.async=!0;
+   t.src=v;s=b.getElementsByTagName(e)[0];
+   s.parentNode.insertBefore(t,s)}(window,document,'script',
+                                   'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '198901104231284');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1" 
+       src="https://www.facebook.com/tr?id=198901104231284&ev=PageView
+            &noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<!-- End new FB script 23 April 18 -->
+
+<!-- Facebook Pixel Code + Analytics-->
+<script defer="defer">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.defer=1;a.src=g;m.parentNode.insertBefore(a,m)
+                          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-13216459-1', 'auto');
+  ga('send', 'pageview');
+
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                           n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.defer=!0;
+                           t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                                                                                                  document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '1508974172729865');
+  fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1508974172729865&ev=PageView&noscript=1"
+               /></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Tend Code -->
+<script type="text/javascript">
+    var tendKey = "Kx9UGxWRWeyLYcd3lTKc";
+</script>
+<script type="text/javascript">
+    !function(){function t(){var t=n.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://track.tend.io/js/track/v3.2.min.js";var e=n.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}var e=window;if(!window.tend){var n=document,a=function(){return{event:function(t){a.c(["event",t])},page:function(t){a.c(["page",t])}}}();a.q=[],a.c=function(t){a.q.push(t)},e.tend=a,e.attachEvent?e.attachEvent("onload",t):e.addEventListener("load",t,!1)}}();
+</script><link rel="stylesheet" href="https://d1mne375u01eb8.cloudfront.net/stylesheets/homepage.css">
+<!-- <link href="https://d1mne375u01eb8.cloudfront.net/css/featherlight.min.css" rel="stylesheet">
+<link href="https://d1mne375u01eb8.cloudfront.net/css/featherlight.gallery.min.css" rel="stylesheet">-->
+<style>
+/*--------------------*/
+#currency-converter-result .bld{
+	font-weight:600;
+}
+.search_categories2 {
+	font-size: 13px;
+	padding: 10px 8px 10px 14px;
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	overflow: hidden;
+	position: relative;
+}
+#corporate-supporters .thumbnail, #testimonial .thumbnail {
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+#corporate-supporters .col-sm-6, #testimonial .col-sm-6 {
+	padding: 0px 3px;
+}
+#corporate-supporters.slide, #testimonial.slide {
+	border: none;
+}
+#recognitions .vertical{
+	min-height:100px;
+  height: auto;
+}
+@media (max-width:767px){
+  .ei-slider{
+    height: 400px;
+  }
+}
+@media (max-width:480px){
+	#recognitions .vertical{
+		min-height:120px;
+	}
+}
+@media (max-width:360px){
+	.logo img:not(.site-logo){
+		width:40px;
+	}
+	.logo .site-logo img{
+		width:100px;
+	}
+}
+#panel {
+	height:auto;
+	padding: 10px 0px 10px 0px !important;
+}
+#panel  img{
+	width:80px;
+}
+#currency-converter-result .bld{
+	font-weight:600;
+}
+@media only screen and (max-width: 480px){
+.back-top, .back-top a, .slide {
+     display: block; 
+}
+}
+.introduction-box{
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.6);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.6);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.6);
+border-color: #3c763d;
+}
+div.bx-wrapper{
+  margin-bottom: 30px;
+}
+
+</style>
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+  <script> (function(w,d,t,u,n,a,m){w['MarketingLeoTrackingObject']=n; w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t), m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m) })(window,document,'script','https://app.marketingleo.com/growtrees/leo.js','mt'); mt('send', 'pageview'); </script>
+<body>
+<div class="container"> <!-- Newsletter Popup starts-->
+<div id="resultnewsPop" style="display:none"></div>
+<div class="popup newsletterToaster popup1" id="newsletterPopUp"  style="display:none;" >
+  <a href="javascript:;" onclick="closePop()" class="btnClose" style="text-decoration: none;">X</a>
+  <div id="formCont" style="display:block;">
+    <h1 class="newsmargin" style="font-size: 20px;margin-left: 20px;padding:5px;">GET OUR FREE NEWSLETTER</h1>
+    <div class="">
+      <div class="" style="padding-top:15px;">
+        <input type="email" id="emailNews"  placeholder="Enter your e-mail address..." style="width: 97%;box-shadow: inset 0 1px 2px #666;">
+        <span class="err" id="errEmail" style="visibility:hidden">No, we won't spam you!</span>
+      </div>
+      <div class="" style="padding-bottom:17px;">
+        <button type="submit" class="myButton btn-success" onclick="subscribe()">GO</button>
+        <button type="submit" class="myButton btn-success" onclick="doShowAgain()">NO THANKS!</button>
+      </div>
+    </div>
+  </div>
+  <div id="thankyouSub" style="display:none;padding:10px;">
+    <strong><h3> Thank you for subscribing to our newsletter!</h3>
+      <p>You will be added to our mailing list soon keeping you up-to-date with our latest updates.</p><p>You can also like us on <a target="_blank" href="https://www.Facebook.com/Growtrees" >facebook</a> to stay connected.</p></strong>
+  </div>
+  <div id="existMsg" style="display:none;padding:6px;">
+    <h3 style="text-align: center;">You had already subscribed for our newsletter!</h3>
+    <strong><p>You are already added to our mailing list soon keeping you up-to-date with our latest updates.</p><p>You can also like us on <a href="https://www.Facebook.com/Growtrees" target="_blank" >facebook</a> to stay connected.</p></strong>
+  </div>
+</div>
+<!-- Newsletter Popup ends-->
+<div class="col-xs-12" >
+  <div class=" col-xs-12 col-lg-4 col-sm-5">
+    <div class="logo"> 
+      <a href="/" class="site-logo"><img src="https://d1mne375u01eb8.cloudfront.net/images/GT_Logo.png"  ></a>   
+      <a href="http://www.unep.org"><img src="https://d1mne375u01eb8.cloudfront.net/images/unep-logo.png" style="padding-top:40px;"></a> 
+      <a href="http://www.plant-for-the-planet.org"><img src="https://d1mne375u01eb8.cloudfront.net/images/GT_topbar_plantforplanet.jpg" style="padding-top:40px;"></a> 
+      <a class="hidden-xs" href="http://www.wwfindia.org/"><img src="https://d1mne375u01eb8.cloudfront.net/images/panda-top.png" style="padding-top:40px;"></a> </div>
+    <div class="visible-xs-block "> <br/>
+    </div>
+  </div>
+
+  
+  <div class='col-xs-12 col-lg-8 col-sm-7 pull-right capsule-head ' align='right'>
+    <div class='hidden-xs' style=' padding-top:70px'></div>
+    <div class='capsule ticker-capsule col-xs-12'>
+      <div class='col-sm-4 col-xs-12 capsule-container text-center  bg-success'>
+        <span class='capsule-content'> 3,892,597 Trees</span> <br/>
+        <span class='capsule-title' style='font-weight: 600;font-size: 11pt;text-shadow: 2px 1px 2px #000000;'>Planted by Grow-Trees</span>
+      </div>
+      <div class='col-sm-4 capsule-container hidden-xs text-center  bg-ground'> 
+        <span class='capsule-content'> 321,139 Days</span><br>
+        <span class='capsule-title'>Employment Generated</span> 
+      </div>
+      <div class='col-sm-4 capsule-container text-center bg-muted hidden-xs'>
+        <span class='capsule-content'> 77,851,940 Kg</span><br>
+        <span class='capsule-title'>  CO<sub>2</sub> Absorption / Year (when mature)
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 visible-xs-bloxk" style="padding-top:5px;">
+    <a href="/projectselection.php" class="btn btn-primary btn-sm btn-block visible-xs-block">Plant & Greet NOW!</a>
+    <a href="/monthly.php" class="btn btn-success btn-sm btn-block visible-xs-block" style="margin-bottom:5px;margin-right:5px;">Plant Monthly, Greet Anytime! <sup style="color:red"><strong>New</strong></sup></a>
+  </div>
+
+</div> <div class='navbar-fixed-bottom ticker-box visible-xs'  style='background:#fff;'>
+  <button type='button' class='close ticker-close ' style='opacity:1;padding:10px 10px 0px 0px' ><img src='https://d1mne375u01eb8.cloudfront.net/images/close.png' /></button>
+  <div class='col-xs-12 ticker-box-capsule' style='padding:10px'>
+    <div class='col-xs-6 ticker-box-capsule-container text-center bg-muted ' style='padding:5px'>
+      <span class='capsule-content'> 77,851,940 Kg</span><br>
+      <span class='capsule-title'>  CO<sub>2</sub> Absorption / Year (when mature)</span>
+    </div>
+    <div class='col-xs-6 ticker-box-capsule-container text-center bg-ground' style='padding:5px'> 
+      <span class='capsule-content'> 321,139 Days</span><br>
+      <span class='capsule-title'>Employment Generated</span> 
+    </div>     
+  </div>
+</div>
+
+
+<div class="clearfix"></div>
+
+<div class="twelve columns col-lg-12" >
+  <nav id="nav-wrap">
+    <ul class="nav-bar sf-menu">
+      <li class="current"> <a href="/">Home</a> </li>
+      <li> <a href="javascript:void();">About Us</a>
+        <ul>
+          <li> <a href="grow-trees-methodology.php">Grow-Trees Methodology</a> </li>
+          <li> <a href="aboutus.php">Vision</a> </li>
+          <li> <a href="meetourteam.php">Team</a> </li>
+          <li> <a href="recognitions.php">Recognitions</a> </li>
+          <!--<li> <a href="planting-partners.php">Planting Partners</a> </li>-->
+          <li> <a href="board-of-directors.php">Board Of Advisors</a> </li>
+          <li><a href="testimonials.php">Testimonials</a></li>
+          <li><a href="press.php">Press Coverage</a></li>
+          <li><a href="faqs.php">FAQs</a></li>
+          <li> <a href="careers.php">Career</a> </li>
+        </ul>
+      </li>
+      <li> <a href="javascript:void();">Reasons to Plant</a>
+        <ul>
+          <li><a href="gift.php">Gift & Greet</a></li>
+          <li> <a href="offset.php">Offset Carbon</a></li>
+          <!--<li> <a href="gift.php">Pay Tribute</a></li>-->
+          <li> <a href="grove/">Plant a Grove & Invite Friends</a></li>
+          <li> <a href="/world-environment-day.php">World Environment Day</a></li>
+        </ul>
+      </li>
+      <li> <a href="projects.php">Projects</a> </li>
+      <li> <a href="about_trees.php">Why Trees</a> 
+        <ul>
+          <li><a href="about_trees.php">About Trees</a></li>
+          <li><a href="about-deforestation.php">About Deforestation</a></li>
+          <li><a href="about-global-warming.php">About Global Warming</a></li>
+          <li><a href="Benefits-Of-trees.php">Benefits Of Trees</a></li>
+          <li><a href="our-trees.php">Our Trees</a></li>
+        </ul>
+      </li>
+      <li> <a href="javascript:void();">Corporates</a>
+        <ul>
+          <li><a href="corporate_program.php">Corporate Programs</a></li>
+          <li><a href="corporate_supporters.php">Corporate Supporters</a></li>
+          <li><a href="Benefits-For-A-Green-Company.php"> Benefits To Green Company</a></li>
+        </ul>
+      </li>
+      <li> <a href="javascript:void();">Gallery</a>
+        <ul>
+          <li><a href="photoalbum.php">Photo Album</a></li>
+          <li><a href="videoalbum.php">Videos</a></li>
+        </ul>
+      </li>
+      <li> <a href="grove/">Grove <sup style="color:red"><strong>New</strong></sup></a> </li>
+      <li> <a href="locatetree.php">Locate Tree </a> </li>
+      <li> <a href="/wordpress/" target="_blank">Blog</a> </li>
+      <!-- <li> <a href="carboncalculator.php">CarbonCalculator <sup style="color:red"><strong>New</strong></sup></a> </li>-->
+      <li> <a href="contact.php">Contact</a> </li>
+    </ul>
+  </nav>
+</div>
+<div class="clearfix"></div>
+<div id="nav">
+  <a class="navscrolleTreeCard " href="/index.php?scrolleTreeCard"><img src="https://d1mne375u01eb8.cloudfront.net/images/print-design/dc-wm1.jpg" width="40px" height="50px"  class="pull-left hidden-xs "><img src="https://d1mne375u01eb8.cloudfront.net/images/print-design/sc-wm1.jpg" width="40px" height="50px"  class="pull-left hidden-xs "></a>
+  &nbsp; <a  href="/index.php?scrolleTreeCard" id="headerPlantNowButton" class="btn btn-primary btn-sm hidden-xs " style="margin-bottom:5px;">Click here to plant a tree</a>
+
+  <!--&nbsp; <a  href="/daanutsav" class="btn btn-danger btn-sm hidden-xs " style="margin-bottom:5px;">Daan Utsav</a>-->
+  <ul>
+
+    <!-- <li><a href="#" data-target="#volunteerModal" data-toggle="modal" class="btn btn-success btn-sm">Volunteer With Us!!</a></li>-->
+    <li><a  href="/monthly.php" class="btn btn-success btn-sm hidden-xs " style="margin-bottom:5px;margin-right:5px;">Plant Monthly, Greet Anytime! <sup style="color:red"><strong>New</strong></sup></a></li>
+    <li id="login" ><a id="login-trigger" href="javascript::void();" class="btn " >
+      Login / SignUp      <span>&#x25BC;</span> </a>
+      <div id="login-content">
+                <form class="form login-form" action="/index.php" style="margin:0px"  method="POST" name="sa" onSubmit="return validateFormb(this);">
+          <fieldset id="inputs">
+            <div class="text-right">
+              <a href="register.php" class=" text-success"> Register Now </a> | 
+              <a href="forgotpassword.php" class=" text-success"> Forgot Password ?</a>
+            </div>
+            <br>
+            <input  type="text" id="uemail" name="uemail" placeholder="Your email address" required>
+            <input  type="password" autocomplete="off" id="pass1" name="pass1" required>
+            <label >
+              <input type="checkbox" name="remember-me" value="1" checked="checked" >
+              Keep me signed in</label>
+            <input type="submit" id="log" name="log" value="Login" class="btn-block">
+            <br />
+            <br />
+            <div class="text-right  pull-right">
+              Sign In Using:    
+              <span class="">
+                <a href="/login.php?login=facebook" class="btn btn-primary ">Facebook</a>
+                <a href="/login.php?login=google" class="btn btn-danger ">Google</a>
+              </span>
+            </div>
+          </fieldset>
+        </form>
+              </div>
+    </li>
+  </ul>
+</div>
+<div class="modal fade" id="volunteerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" >
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h2 style="font-size:24px;color:#060" class="modal-title" >Volunteer!!!</h2>
+      </div>
+      <div class="modal-body" style="line-height:18px;font-size:14px">
+        <h4>Grow-Trees.com is seeking International Volunteers in each country!</h4>
+        <div class="h5">Volunteers can work from home, contact executives in companies (possibly with an Indian connection), associations of Indian diaspora, and environmental organizations, and create awareness of the opportunity to plant trees and greet friends with eTreeCertificates.<br>
+          <h5><strong>Grow-Trees.com will provide communication collateral that can be used by the volunteer for this purpose. </strong></h5>
+          <h5 class="text-success well well-sm bg-success"><strong>If the Volunteer is successful in acquiring substantial number of tree plantings from individuals or corporates, the volunteer can be awarded a reasonable remuneration for that success.</strong> </h5></div><br>
+      </div>
+      <div class="modal-footer">
+        <a href="/contact.php?makeMeVolunteer" class="btn btn-success" style=""> Volunteer Now</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Newsletter Popup starts-->
+<script src="https://d1mne375u01eb8.cloudfront.net/javascripts/ouibounce.js"></script> 
+<!-- <link href="css/ouibounce.min.css" rel="stylesheet">-->
+<script>
+
+  function closePop(){
+    $('#newsletterPopUp').fadeOut("slow");
+    document.cookie = 'newsPopClose = closePop';
+  }
+  function doShowAgain(){
+    $('#newsletterPopUp').fadeOut("slow");
+    localStorage.setItem("newsPop", "NewsSet");
+  }
+  function isEmail(email){
+    var regex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+    return regex.test(email);
+  }
+  function subscribe(){
+
+    var email = $.trim($('#emailNews').val());
+    var err = false;
+
+    if((!isEmail(email)) || (email=="")){
+      $("#errEmail").css("visibility","visible"); 
+      err = true;
+    }
+    if(err == false){
+      console.log(err);
+      $.ajax
+      ({
+        type: 'POST',
+        url: 'popupNews.php',
+        data: 'mail='+email,
+        success: function(data)
+        {
+          $('#thankyouSub').show();
+          $('#formCont').hide();
+          $('#existMsg').hide();
+          if(data == 'success'){
+            localStorage.setItem("newsPop", "NewsSet");
+          }
+          if(data == 'exist'){
+            $('#existMsg').show();
+            $('#thankyouSub').hide();
+            $('#formCont').hide();
+            localStorage.setItem("newsPop", "NewsSet");
+          }
+        },
+        error: function(errorThrown) {
+          // console.log('hi');
+        }
+      });
+    }else{
+      $("#errEmail").css("visibility","visible"); 
+    }
+  }
+  var popIn = document.getElementById("resultnewsPop").innerHTML = localStorage.getItem("newsPop");
+  if(popIn != 'NewsSet'){
+    var _ouibounce = ouibounce(document.getElementById('newsletterPopUp'), {
+      aggressive: true,
+      timer: 0,
+      callback: function() { console.log('ouibounce fired!'); }
+    });
+  }
+</script>
+<!-- Newsletter Popup ends--> </div>
+<div class="clearfix"> </div>
+
+<div class="clearfix"></div>
+<div class="container">
+<div id="slider-div"  >
+  <ul id="slider-pc" class="bxslider hidden-xs">
+    <li><img onclick="location.href='/monthly.php';" src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Website_banner.jpg" style="margin:0px auto;width:100%"/></li>
+  <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/modiji.jpg" style="margin:0px auto;width:100%"/></li>
+  <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/gt_slide_Y.jpg" style="margin:0px auto;width:100%"/></li>
+  <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/gt_slide_X.jpg" style="margin:0px auto;width:100%"/></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Eminent-Recipients.jpg" style="margin:0px auto;width:100%"/></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/CSR-Planting-Event.jpg" style="margin:0px auto;width:100%"/></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Rural-Employ-Water-Catchmen.jpg" style="margin:0px auto;width:100%" /></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Sundarbans-Amravati-Madan.jpg" style="margin:0px auto;width:100%" /></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Banner_website.jpg" style="margin:0px auto;width:100%" /></li>
+  </ul>
+  <ul id="slider-mobile" class="bxslider visible-xs">
+  <li><img src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Mobile size image.jpg" style="margin:0px auto;width:100%"/></li>
+  <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/mmodiji.jpg" style="margin:0px auto;width:100%"/></li>
+  <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/gt_slide_Ym.jpg" style="margin:0px auto;width:100%"/></li>
+  <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/gt_slide_Xm.jpg" style="margin:0px auto;width:100%"/></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Amravati-Maharashtra.jpg" style="margin:0px auto;width:100%"/></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Community-Interaction.jpg" style="margin:0px auto;width:100%"/></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Madanapalle-Andhra-Pradesh.jpg" style="margin:0px auto;width:100%" /></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/PM-Modi.jpg" style="margin:0px auto;width:100%" /></li>
+    <li ><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Rural-Employment.jpg" style="margin:0px auto;width:100%"/></li>
+    <li><img class="lazy" data-src="https://d1mne375u01eb8.cloudfront.net/images/Banner/Water-Catchment.jpg" style="margin:0px auto;width:100%"/></li>
+  </ul>
+</div>
+</div>
+<div class="clearfix"> </div>
+
+<div id="">
+  <div class="container">
+    <div class="twelve columns" >
+    <div class="boxblog introduction-box">
+   <h4 class="text-center text-success " ><b class="glyphicon glyphicon-tree-conifer text-success hidden-xs"></b> Welcome! Greet with Trees<sup>&reg;</sup>! <b class="glyphicon glyphicon-tree-conifer text-success hidden-xs"></b></h4>
+        <span >
+        <ul class="" >
+<li class="h5"><b class="glyphicon glyphicon-tree-conifer text-success "></b> Plant real trees in public lands to honor friends with eTreeCertificates/eTreeCards for weddings, birthdays, anniversaries....</li>
+<li class="h5"><b class="glyphicon glyphicon-tree-conifer text-success "></b> Start a Grove for your own celebrations & have friends plant and greet you in the  planting period you specify.</li>
+<li class="h5"><b class="glyphicon glyphicon-tree-conifer text-success "></b> Plant now, "bank" your trees, & dedicate them whenever you want to greet friends; choose  the design of the eTreeCertificate/eTreeCard, pre-program dates to send them, compose your personal messages, upload your image; locate the tree-planting project you support through our "<b class="text-success">Locate-Tree</b>" feature. </li>
+<li class="h5"><b class="glyphicon glyphicon-tree-conifer text-success "></b> Your tree planting gift to the world creates jobs, benefits communities & wildlife, improves water catchment and decarbonises the world.</li>
+
+</ul>
+
+<ul style="font-size:11pt"></ul>
+</div>
+            <div class="recognitions">
+        <div class="centersectiontitle">
+          <h4>Recognitions</h4>
+        </div>
+        <div class="">
+        <div id="recognitions"  class="carousel well well-sm slide panel" style="display:block;border-top:none;" >
+          <div class="carousel-inner  vertical " >
+            <div class=" col-sm-12  item active">              <a href='https://www.grow-trees.com/projectdetails.php?id=65&project=trees_for_water_harda_madhya_pradesh_india' class='row' id='recognitions-16' style='color:black'><h4>Grow-Trees.com signs Framework Partnership Agreement with The Prince Albert II of Monaco Foundation</h4></a></div><div class=" col-sm-12 item ">              <a href='recognitions.php#12' class='row' id='recognitions-12' style='color:black'><h4>Official Partner of WWF's Cities for Forests Campaign</h4></a></div><div class=" col-sm-12 item ">              <a href='recognitions.php#11' class='row' id='recognitions-11' style='color:black'><h4>Official Partner of the United Nations Environment Program's Billion Tree Campaign</h4></a></div><div class=" col-sm-12 item ">              <a href='https://vimeo.com/163767966' class='row' id='recognitions-10' style='color:black'><h4>Haverford College features our cofounder Karan Shah and Grow-Trees.com in movie welcoming new students and parents!</h4></a></div><div class=" col-sm-12 item ">              <a href='https://www.alumni.hbs.edu/stories/Pages/story-impact.aspx?num=6214' class='row' id='recognitions-7' style='color:black'><h4>Harvard Business School Alumni Bulletin recognizes  Grow-Trees.com (in "Starting Lineup : Values Proposition", June 2017) for alumni-founded social enterprises "doing well by doing good"</h4></a></div><div class=" col-sm-12 item ">              <a href='recognitions.php#5' class='row' id='recognitions-5' style='color:black'><h4>U.S. Consulate General Mumbai nominates our CEO, Mr. Bikrant Tiwary as part of their EcoHeroes campaign.</h4></a></div><div class=" col-sm-12 item ">              <a href='recognitions.php#3' class='row' id='recognitions-3' style='color:black'><h4>Economic Times/Dept of Science & Technology/Center for Innovation, Incubation & Entrepreneurship, IIM-A Recognition!</h4></a></div><div class=" col-sm-12 item ">              <a href='recognitions.php#2' class='row' id='recognitions-2' style='color:black'><h4>YPO-WPO Global Impact Recognition! ? the world's premier community of Chief Executives comprising 21,000 members</h4></a></div><div class=" col-sm-12 item ">              <a href='recognitions.php#1' class='row' id='recognitions-1' style='color:black'><h4>Action for India Silicon Valley Challenge Recognition! ? one of five social innovators selected from 700 participants</h4></a></div>          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ANIMATED COLUMNS 
+================================================== --><br>
+
+<div class="container">
+  <div class="twelve columns">
+  <div class="centersectiontitle">
+      <h4>Plant trees and honour with eTreeCertificates/eTreeCards</h4>
+    </div>
+  </div>
+  <div class="six columns"> 
+    <!--
+
+    <center>
+      <button type="button" class="btn btn-success" data-toggle="collapse in" data-target="#demoa">One to Many</button>
+    </center>-->
+    <div class=""> <span class="btn btn-success btn-block active" data-toggle="collapse in"  style="border:1px solid #669900;;border-radius:0px"><strong>One to Many/One to One</strong></span> </div>
+    <div  style="border:1px solid #669900; padding:1.2em;">
+      <h4><strong>One Person Planting for One or Many Occasions(Christmas,New Year, etc.)</strong> </h4>
+      <span>Honour with Trees One or More Persons and send personalized eTreeCertificates/eTreeCard! <br>
+      <br>
+      </span>
+      <form name="vaa" method="post" action="design.php" id="vaa" enctype="multipart/form-data" >
+                <select name='ddl_purpose' id='ddl1_purposeb' onChange="" class="search_categories2" >
+          <option value=2>Trees for Forests & Wildlife</option><option value=1>Trees for Rural Communities</option><option value=7>Trees for the Himalayas</option>        </select>
+        <br>
+        <br>
+        <select name="ddl_project" id="ddl1_projectb" class="search_categories2">
+          <option value="" >--Select Project--</option>
+        </select>
+        <br>
+        <br>
+		
+        <label>No of Trees </label>
+        
+        <input name="txtnotree" type="number" class="smoothborder" id="txtnotree" value="1" maxlength="4">
+		<div class="pull-right" ><br>
+		<img src="https://d1mne375u01eb8.cloudfront.net/images/print-design/dc-wm.jpg" width="40px" height="50px"  class="pull-left "><img src="https://d1mne375u01eb8.cloudfront.net/images/print-design/sc-wm.jpg" width="40px" height="50px"  class="pull-left "><br><label class="pull-right text-danger " style="margin-bottom:5px;">Try Our New Feature eTreeCard</label><br>
+        <strong id="rateChartRupees"><span class="rupyaINR">Rs</span> 85 per tree </strong>
+        <span id="rateChartDollars" class="hide">
+        
+        </span>
+        <br>
+          <!--<label data-target="#currency-modal" data-toggle="modal"  class="pull-right text-success " >(See value in your currency <span class="glyphicon glyphicon-globe " style="font-size:16px"></span>) </label>-->
+        </div>
+       <label style="">Total  Amount : <span id="resultSym" style="display:none"></span><span id="currency-converted"></span></label>
+        <input name="txtAmount" type="text" class="smoothborder" style="font-weight:600" id="txtAmount" value="85"  readonly>
+		<span>Click below and gift personalized eTreeCertificates/<strong>eTreeCards</strong></span>
+        <img src="https://d1mne375u01eb8.cloudfront.net/images/nm1.png" style="display:block;align:left;">
+        <div class="avatar design-reason"> <a  class="btn-link" onClick="form_submit('vaa','gift');" ><img src="https://d1mne375u01eb8.cloudfront.net/stylesheets/img/gift.png" width="38px" height="44px"></a> </div>
+        <div class="avatar design-reason"> <a  class="btn-link" onClick="form_submit('vaa','offset');" ><img src="https://d1mne375u01eb8.cloudfront.net/stylesheets/img/co2.png"></a> </div>
+        <div class="avatar design-reason"> <a  class="btn-link" onClick="form_submit('vaa','memorial');" ><img src="https://d1mne375u01eb8.cloudfront.net/stylesheets/img/offset.png"></a> </div>
+        <input type="radio" id="gift" name="reason" value="gift" class="hidden">
+        <input type="radio" id="offset" name="reason" value="offset" class="hidden">
+        <input type="radio" id="memorial" name="reason" value="memorial" class="hidden">
+      </form>
+    </div>
+<br>
+    <br>
+  </div>
+  <div class="six columns">
+    <div class=""> <a class="btn btn-success btn-block active"  style="border:1px solid #669900;;border-radius:0px"><strong>Many to One </strong></a> </div>
+    <div  style="border:1px solid #669900;padding:1.2em;">
+      <h4><strong>Many Individuals Planting for One Occasion(Wedding, Anniversary etc.)</strong></h4>
+      <span>Start a Grove of Trees for a Person/Occasion,    
+      and allow others to add trees for the same occasion;  recipient gets one personalized eTreeCertificate from all well-wishers!<a href="grove/index.php" class="text-success pull-right" style=""> <strong>Know More about Grove  ...</strong></a></span>
+      <form name="vab" method="post" action="grove/start.php" id="vab" enctype="multipart/form-data" >
+        <select name='ddl_purpose' id='ddl2_purposeA'  class="search_categories1" ><option value=2>Trees for Forests & Wildlife</option><option value=1>Trees for Rural Communities</option><option value=7>Trees for the Himalayas</option></select>
+        <br>
+        <br>
+        <select name="ddl_project" id="ddl2_projectA" class="search_categories1">
+          <option value="" >--Select Project--</option>
+        </select>
+        <br>
+        <br>
+        <div class="pull-left col-xs-12 col-sm-6">
+        <label style="">No of Trees </label>
+          <input name="txtnotree" type="number" class="smoothborder" id="gtxtnotree" min=10 value="10" maxlength="4">
+          Total  Amount :
+          <input name="txtAmount" type="text" class="smoothborder" id="gtxtAmount" style="font-weight:600" value="850" readonly>
+
+        </div>
+        <div class="pull-right col-xs-12 col-sm-4" style=" text-align:center;"> <a href="grove/index.php"><img src="https://d1mne375u01eb8.cloudfront.net/grove/images/grove-home-image.jpg"></a> <br>
+          <a class="btn btn-success "  href="grove/viewgrove.php">Join a Grove </a><br>
+        </div>
+		
+       <br class="clearfix">
+       <span>Click below and gift personalized eTreeCertificates/<strong>eTreeCards</strong></span>
+        <img src="https://d1mne375u01eb8.cloudfront.net/images/grove_ban.png" style="max-width:100%;display:block;float: left">
+
+        <div style="width:266px" >
+          <div class="visible-xs-block"> </div>
+          <div class="avatar design-reason " id="birth-img" > <a  class="btn-link" onClick="form_submit('vab','anniversary');" ><img src="https://d1mne375u01eb8.cloudfront.net/stylesheets/img/birth.png" title=" Birthday"  ></a> </div>
+          <div class="avatar design-reason" id="anniv-img"  > <a  class="btn-link" onClick="form_submit('vab','birthday');" ><img src="https://d1mne375u01eb8.cloudfront.net/stylesheets/img/annive.png" title="Anniversary" ></a> </div>
+          <div class="avatar design-reason" id="child-img" > <a  class="btn-link" onClick="form_submit('vab','graduation');" ><img src="https://d1mne375u01eb8.cloudfront.net/stylesheets/img/graduation.png" title="Graduation"></a> </div>
+          <div class="avatar design-reason" id="wedd-img" > <a  class="btn-link" onClick="form_submit('vab','wedding');" ><img src="https://d1mne375u01eb8.cloudfront.net/stylesheets/img/wed.png" title="Wedding"></a> </div>
+        </div>
+        <input type="radio" id="anniversary" name="reason" value="anniversary" class="hidden">
+        <input type="radio" id="birthday" name="reason" value="birthday" class="hidden">
+        <input type="radio" id="graduation" name="reason" value="graduation" class="hidden">
+        <input type="radio" id="wedding" name="reason" value="wedding" class="hidden" >
+      </form>
+       <br>
+    </div>
+<br class="clearfix">
+    <br>
+  </div>
+</div>
+<!-- CERTIFICATES 
+================================================== -->
+<div class="container">
+  <div class="twelve columns" id="scrolleTreeCard">
+    <div class="centersectiontitle">
+      <h4>Choose an eTreeCertificate/eTreeCard and plant trees now</h4>
+    </div>
+  </div>
+  	  <style>
+		  .preset-box {
+		  max-height:120px;min-height:120px;overflow:hidden;
+		  cursor:pointer;
+	  }
+	  		  .preset-box:hover {
+				  border: 1px #009000 solid;
+			  }
+		  </style>
+
+  <div class=" col-xs-12">
+          
+   <div class="col-xs-12 col-sm-4">
+   <div class="preset-box" onclick='location.href="design.php?preset=6";'>
+      <a href="design.php?preset=6" data-filename=""  style="display:inline;color:#000;"><img src="https://d1mne375u01eb8.cloudfront.net/certificates/bg/thumb_gt_cert_birthday.jpg" class="img-responsive col-xs-6 " alt="" /><div class="col-xs-6 preset-title" style=""><strong>Happy Birthday!</strong>
+      </div>
+</a>
+</div> 
+      </div>
+
+          
+   <div class="col-xs-12 col-sm-4">
+   <div class="preset-box" onclick='location.href="design.php?preset=53";'>
+      <a href="design.php?preset=53" data-filename=""  style="display:inline;color:#000;"><img src="https://d1mne375u01eb8.cloudfront.net/certificates/bg/thumb_gt_cert_love.jpg" class="img-responsive col-xs-6 " alt="" /><div class="col-xs-6 preset-title" style=""><strong>Trees for Marriage wishes</strong>
+      </div>
+</a>
+</div> 
+      </div>
+
+           <div class="col-sm-4 col-xs-12"><div class="preset-box"  onclick='location.href="presets.php";' style="padding:0px;background:  linear-gradient(rgba(0,0,0, 0.45),  rgba(0, 0, 0, 0.45) ),url('https://d1mne375u01eb8.cloudfront.net/images/designsbg.jpg');background-size: cover; text-align:center;" >
+<h3><a href="presets.php" style="color:#fff">+13 Designs</a></h3>
+
+       </div></div>
+</div>
+<hr>
+<!-- CONTENT 
+================================================== -->
+<div class="container">
+  <div class=" col-md-4 col-sm-12 col-xs-12">
+    <div class="sectiontitle">
+      <h4>Testimonials</h4>
+    </div>
+    <div id="testimonial"  class="carousel slide" data-interval="5000" style="display:block" >
+      <div class="carousel-inner"  >
+        <div class="item active" ><div class=""><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=71" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636879919913336814.jpg"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=71" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Dia Mirza</a></div><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=70" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636849760123013640.png"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=70" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Mr. Puran Parekh, CEO & MD - iASYS Technology Solutions Pvt. Ltd.</a></div><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=69" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636723632141911876.png"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=69" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Ruchi Razdan  Head of Business Development - K LAW (KRISHNAMURTHY & Co)</a></div></div></div><div class="item " ><div class=""><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=68" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636707184957354156.jpg"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=68" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Beyonder</a></div><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=58" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=58" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Ajay Kulkarni</a></div><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=54" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/image001(4).jpg"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=54" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Naresh Mittal</a></div></div></div><div class="item " ><div class=""><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=53" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/image001(3).jpg"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=53" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Dileep</a></div><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=52" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/image001(2).jpg"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=52" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Vinita Bali</a></div><div class="col-sm-12 col-xs-12 thumbnail" style="display:table;" ><div class=avatar style="margin:6px 10px"><a data-toggle="modal" href="corp-supp.php?test_id=51" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/image001.jpg"  width=35 height=35 style="padding:0px;display:table-cell;
+ vertical-align:middle;align:left;"  /></a></div><span style="display:block;margin-top:15px;margin-left:8px;
+ vertical-align:middle;align:left;"><a data-toggle="modal" href="corp-supp.php?test_id=51" data-target="#myModal" style="color:#000;text-decoration:none;align:left;">Anuja P Sharma</a></div></div></div>    
+      </div>
+    </div>
+    <br>
+     <strong><a href="testimonials.php?page=1" class="text-success pull-right">View More...</a></strong>
+    <br>
+    <br>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="sectiontitle">
+      <h4>Corporate Supporters</h4>
+    </div>
+    <div id="corporate-supporters" class="carousel  slide"  style="display:block">
+      <div class="carousel-inner">
+        <div class="item active" align="center"><div class=""><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=255" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636718325611966251.png" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=254" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636675319406179898.png" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=253" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636670028033594698.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=251" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636572406901370484.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=249" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/COP_logo.png" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=248" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/MercedesBenz.jpg" style="height:62px"/></a></div></div></div></div><div class="item " align="center"><div class=""><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=247" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/BelgiumTradeConsulate.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=245" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/Lexusplants.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=244" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/Ochreplants.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=243" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/PepsiPlants.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=242" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/AcresiumPlants.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=241" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/VajorPlants.jpg" style="height:62px"/></a></div></div></div></div><div class="item " align="center"><div class=""><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=240" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/GCorpPlants.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=239" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/636839463073295982.png" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=238" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/DCBPlants.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=237" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/ANDPlants.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=234" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/ADSGroup.jpg" style="height:62px"/></a></div></div><div class="col-sm-6 col-xs-6 " style="padding:0px 5px;"><div class=" thumbnail "><a data-toggle="modal" href="corp-supp.php?supp_id=232" data-target="#myModal"><img src="https://d1mne375u01eb8.cloudfront.net/images/Allcargomergejpg_1472812655_1474953725.jpg" style="height:62px"/></a></div></div></div></div>      </div>
+    </div>
+    <br>
+     <strong><a href="corporate_supporters.php?show=all&page=1" class="text-success pull-right">View More...</a></strong>
+    <br>
+    <br>
+  </div>
+  <div class="col-md-4 col-xs-12 col-sm-6">
+    <div class="sectiontitle">
+      <h4><a  href="#" data-target="#treeBankModal" data-toggle="modal" style="text-decoration:none;color:#000">TreeBank</a></h4>
+    </div>
+    <p class="text-center"><a href="#" data-target="#treeBankModal" data-toggle="modal" ><img src="https://d1mne375u01eb8.cloudfront.net/images/tbank.png" class="img-responsive" border="0"></a>
+    <div class="btn-group btn-group-justified col-xs-12">
+    <a class="btn btn-success" href="quickplant.php">Quick Plant</a>
+    <a class="btn btn-success" href="register.php">Register</a>
+    </div>
+    </p>
+  </div>
+</div>
+<!-- CLIENTS 
+================================================== -->
+<div class="container">
+  <div class="twelve columns">
+    <div class="centersectiontitle">
+      <h4><b class="glyphicon glyphicon-picture"></b> Grow-Trees activities in Pictures</h4>
+    </div>
+  </div>
+  <div class="twelve columns">
+    <div class="image_carousel fitcarousel">
+      <div id="foo2"> 
+        <img src='https://d1mne375u01eb8.cloudfront.net/images/GT_Logo.png' style="cursor: pointer; cursor: hand;" class="slideshow-131" width='140' height='140' onClick="jump(131)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636760802483898271.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-125" width='140' height='140' onClick="jump(125)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636747001586800953_WhatsApp_Image_2018_10_04_at_2_46_26_PM.jpeg' style="cursor: pointer; cursor: hand;" class="slideshow-124" width='140' height='140' onClick="jump(124)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636717459529907233_IMG_1433.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-123" width='140' height='140' onClick="jump(123)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636712420243637630_636711394486142386.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-122" width='140' height='140' onClick="jump(122)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636707262365630630_IMG_20180823_WA0015.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-121" width='140' height='140' onClick="jump(121)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711391830055490.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-120" width='140' height='140' onClick="jump(120)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711392563329247.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-119" width='140' height='140' onClick="jump(119)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711392889891603.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-118" width='140' height='140' onClick="jump(118)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711394003798747.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-117" width='140' height='140' onClick="jump(117)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636631494883466101_Amit_Shah.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-116" width='140' height='140' onClick="jump(116)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636629360621505219.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-115" width='140' height='140' onClick="jump(115)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636621112474221010_IMG_3121.JPG' style="cursor: pointer; cursor: hand;" class="slideshow-114" width='140' height='140' onClick="jump(114)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711394784579976.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-113" width='140' height='140' onClick="jump(113)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711395063173551.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-112" width='140' height='140' onClick="jump(112)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636607876410032483.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-111" width='140' height='140' onClick="jump(111)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636723525233942475_imgonline_com_ua_CompressToSize_xQVQ3MYvVYpv2sX.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-110" width='140' height='140' onClick="jump(110)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711395952704923.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-109" width='140' height='140' onClick="jump(109)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711396270674122.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-108" width='140' height='140' onClick="jump(108)" /><img src='https://d1mne375u01eb8.cloudfront.net/images/636711396547080600.jpg' style="cursor: pointer; cursor: hand;" class="slideshow-107" width='140' height='140' onClick="jump(107)" />
+         </div>
+      <div class="clearfix"> </div>
+      <a class="prev" id="foo2_prev" href="#"><span>prev</span></a> <a class="next" id="foo2_next" href="#"><span>next</span></a> </div>
+  </div>
+</div>
+</div>
+</div>
